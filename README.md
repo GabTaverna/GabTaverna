@@ -27,6 +27,7 @@ Tarefas:
 - Academia
 - Jogos
 - Futebol
+- Aprender
 - Praia
 
 ## Contatos
