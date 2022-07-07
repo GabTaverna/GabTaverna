@@ -1,9 +1,7 @@
 # Olá, bem vindo(a) ao meu perfil!
 
 Me chamo Gabriel Taverna, tenho 22 anos e estou inicindo meus estudos de programação e desenvolvimento, com muita vontade de aprender! 
-Possuo muita vontade de empreender utilizando tecnologia.
-
-Moro no Rio de Janeiro, a cidade maravilhosa.
+Possuo muita vontade de empreender utilizando tecnologia. Sou carioca, amante da cidade maravilhosa e sua beleza.
 
 ![RJ](https://user-images.githubusercontent.com/108819527/177806377-0c5fa1f7-cb36-4744-8bcb-ab4ff4b3099b.jpg)
 
