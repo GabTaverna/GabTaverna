@@ -33,5 +33,3 @@ Tarefas:
 ## Contatos
 - Instagram: tavernagabriel
 - E-mail: gabrieltavernasantos2@gmail.com
-
-Oioioioi
