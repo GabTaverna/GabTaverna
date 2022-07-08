@@ -1,4 +1,4 @@
-# Olá, bem vindo(a) ao meu perfil! VAMOOOO
+# Olá, bem vindo(a) ao meu perfil!
 
 Me chamo Gabriel Taverna, tenho 22 anos e estou inicindo meus estudos de programação e desenvolvimento, com muita vontade de aprender! 
 Possuo muita vontade de empreender utilizando tecnologia. Sou carioca, amante da cidade maravilhosa e sua beleza.
@@ -33,6 +33,3 @@ Tarefas:
 ## Contatos
 - Instagram: tavernagabriel
 - E-mail: gabrieltavernasantos2@gmail.com
-
-AGora quero ver hein
-
