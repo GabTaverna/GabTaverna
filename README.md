@@ -35,3 +35,5 @@ Tarefas:
 - E-mail: gabrieltavernasantos2@gmail.com
 
 Aprender e aprender!
+Atualmente, tenho interesse nas linguagens JS, VBA e Python.
+Gosto também de ferramentas de controle de tarefas, automação (Power Automate) e Análise de Dados (BI).
