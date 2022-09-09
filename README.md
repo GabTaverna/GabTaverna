@@ -10,7 +10,7 @@ Possuo muita vontade de empreender utilizando tecnologia. Sou carioca, amante da
 - Área de processos, inovação e planejamento financeiro
 - Há 1 ano na empresa
 
-Tarefas:
+## Tarefas:
 - Melhoria de sistema ERP junto dos devs
 - Planilha de custos
 - Melhoria de processos internos com foco em automação
